@@ -12,8 +12,8 @@ body{
 }
 
 .header{
-    background-color: pink;
-    color:  #496ad8;
+    background-color: #496ad8;
+    color:  white;
     text-align: center;
     padding: 20px;
     font-family: “Lucida Console”, “Courier New”, monospace;
